@@ -1,8 +1,8 @@
-# Railblocks Auth
+# Railsblocks Auth
 
-[![Build Status](https://travis-ci.org/railsblocks/railsblocks-auth.svg?branch=master)](https://travis-ci.org/railsblocks/railsblocks-auth)
+[![Build Status](https://travis-ci.org/railsblocks/railsblocks-auth.svg)](https://travis-ci.org/railsblocks/railsblocks-auth)
 [![Code Climate](https://codeclimate.com/github/railsblocks/railsblocks-auth/badges/gpa.svg)](https://codeclimate.com/github/railsblocks/railsblocks-auth)
-[![Test Coverage](https://codeclimate.com/github/railsblocks/railsblocks-auth/badges/coverage.svg)](https://codeclimate.com/github/railsblocks/railsblocks-auth)
+[![Test Coverage](https://codeclimate.com/github/railsblocks/railsblocks-auth/badges/coverage.svg)](https://codeclimate.com/github/railsblocks/railsblocks-auth/coverage)
 [![security](https://hakiri.io/github/railsblocks/railsblocks-auth/master.svg)](https://hakiri.io/github/railsblocks/railsblocks-auth/master)
 [![Dependency Status](https://gemnasium.com/railsblocks/railsblocks-auth.svg)](https://gemnasium.com/railsblocks/railsblocks-auth)
 [![Inline docs](http://inch-ci.org/github/railsblocks/railsblocks-auth.svg?branch=master)](http://inch-ci.org/github/railsblocks/railsblocks-auth)
